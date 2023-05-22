@@ -4,6 +4,7 @@ Ackee requires correct [CORS headers](https://developer.mozilla.org/en-US/docs/W
 
 - [Reverse proxy configuration](#reverse-proxy-configuration)
 - [Platforms-As-A-Service configuration](#platforms-as-a-service-configuration)
+- update 2
 
 ## Why?
 
